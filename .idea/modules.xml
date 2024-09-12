@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-data-structurers.iml" filepath="$PROJECT_DIR$/.idea/java-data-structurers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pilhas/pilhas.iml" filepath="$PROJECT_DIR$/pilhas/pilhas.iml" />
     </modules>
   </component>
 </project>
