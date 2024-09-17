@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Filas/Filas.iml" filepath="$PROJECT_DIR$/Filas/Filas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filas_prioritarias/Filas_prioritarias.iml" filepath="$PROJECT_DIR$/Filas_prioritarias/Filas_prioritarias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilhas/Pilhas.iml" filepath="$PROJECT_DIR$/Pilhas/Pilhas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-data-structurers.iml" filepath="$PROJECT_DIR$/.idea/java-data-structurers.iml" />
     </modules>
   </component>
