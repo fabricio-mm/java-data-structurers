@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println(pilha.empty());                                                    //true          empty() confere se a pilha está vazia, no momento ela está
         pilha.push("Forza");
-        pilha.push("Devil May Cry 4");
+        pilha.push("Devil May Cry 3");
         pilha.push("Minecraft");
         pilha.push("Skyrim");
         pilha.push("Elden Ring");
