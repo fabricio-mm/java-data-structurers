@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Filas/Filas.iml" filepath="$PROJECT_DIR$/Filas/Filas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Filas_prioritarias/Filas_prioritarias.iml" filepath="$PROJECT_DIR$/Filas_prioritarias/Filas_prioritarias.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pilhas/Pilhas.iml" filepath="$PROJECT_DIR$/Pilhas/Pilhas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic arrys/dynamic arrys.iml" filepath="$PROJECT_DIR$/dynamic arrys/dynamic arrys.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-data-structurers.iml" filepath="$PROJECT_DIR$/.idea/java-data-structurers.iml" />
       <module fileurl="file://$PROJECT_DIR$/listas_encadeadas/listas_encadeadas.iml" filepath="$PROJECT_DIR$/listas_encadeadas/listas_encadeadas.iml" />
     </modules>

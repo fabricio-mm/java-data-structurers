@@ -20,7 +20,7 @@ public class Main {
         list.push("F");
         list.pop()*/
 
-        // Para que ela se comporte como um lista, utilizamoso método offer()
+        // Para que ela se comporte como um lista, utilizamos o método offer()
         list.offer("A");
         list.offer("B");
         list.offer("C");

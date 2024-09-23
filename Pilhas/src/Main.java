@@ -20,7 +20,8 @@ public class Main {
         System.out.println(pilha.empty());                                                     //false         pois acabamos de adicionar objetos à nossa pilha
         System.out.println(pilha); //[Forza, Devil May Cry 3, Minecraft, Skyrim, Elden Ring]
 
-        pilha.pop(); System.out.println(pilha); // [Minecraft, Skyrim]
+        pilha.pop();
+        System.out.println(pilha);
         // não é necessário especificar pq o pop SEMPRE vai tirar o do topo da pilha (o ultimo a ser inserido)
 
         // Itens na pilha: [Forza, Devil May Cry 3, Minecraft, Skyrim]
