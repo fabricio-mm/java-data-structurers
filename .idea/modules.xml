@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysLists vs LinkedList/ArraysLists vs LinkedList.iml" filepath="$PROJECT_DIR$/ArraysLists vs LinkedList/ArraysLists vs LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic arrays/Dynamic arrays.iml" filepath="$PROJECT_DIR$/Dynamic arrays/Dynamic arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Filas/Filas.iml" filepath="$PROJECT_DIR$/Filas/Filas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Filas_prioritarias/Filas_prioritarias.iml" filepath="$PROJECT_DIR$/Filas_prioritarias/Filas_prioritarias.iml" />
